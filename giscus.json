@@ -1,5 +1,4 @@
 {
-  "origins": [
-    "https://andrewlock.net"
-  ]
+  "origins": ["https://andrewlock.net"],
+  "originsRegex": ["http://localhost:[0-9]+"]
 }
